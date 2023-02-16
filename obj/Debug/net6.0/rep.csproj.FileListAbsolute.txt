@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\rep\bin\Debug\net6.0\rep.exe
+C:\Users\Admin\Documents\rep\bin\Debug\net6.0\rep.deps.json
+C:\Users\Admin\Documents\rep\bin\Debug\net6.0\rep.runtimeconfig.json
+C:\Users\Admin\Documents\rep\bin\Debug\net6.0\rep.dll
+C:\Users\Admin\Documents\rep\bin\Debug\net6.0\rep.pdb
+C:\Users\Admin\Documents\rep\obj\Debug\net6.0\rep.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\rep\obj\Debug\net6.0\rep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\rep\obj\Debug\net6.0\rep.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\rep\obj\Debug\net6.0\rep.AssemblyInfo.cs
+C:\Users\Admin\Documents\rep\obj\Debug\net6.0\rep.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\rep\obj\Debug\net6.0\rep.dll
+C:\Users\Admin\Documents\rep\obj\Debug\net6.0\refint\rep.dll
+C:\Users\Admin\Documents\rep\obj\Debug\net6.0\rep.pdb
+C:\Users\Admin\Documents\rep\obj\Debug\net6.0\rep.genruntimeconfig.cache
+C:\Users\Admin\Documents\rep\obj\Debug\net6.0\ref\rep.dll
